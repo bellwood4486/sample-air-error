@@ -1,4 +1,4 @@
-# Sample reproduction of the problem for air
+# Sample for reproduction of cosmtrek/air
 
 ## Summary
 
